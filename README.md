@@ -6,6 +6,8 @@ https://thunderous-sprite-d51c5b.netlify.app/
 
 https://developers.themoviedb.org/3/
 
+![demo](src/ezgif-3-402b3d2a9a.gif)
+
 ### Fitur
 Sort
 
